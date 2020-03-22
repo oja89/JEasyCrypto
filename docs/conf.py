@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'JEasyCryptoOja'
+project = 'JEasyCrypto'
 copyright = '2020, Markus Oja'
 author = 'Markus Oja'
 

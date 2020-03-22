@@ -1,9 +1,3 @@
-Welcome to JEasyCryptoOja's documentation!
-==========================================
-
-This is the starting page for JEasyCrypto documentation
-
-
 Indices and tables
 ==================
 
@@ -17,3 +11,4 @@ Table of Contents
 .. toctree::
    index
    readme
+   howtouse
