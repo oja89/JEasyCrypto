@@ -15,5 +15,5 @@ Table of Contents
 ==================
 
 .. toctree::
-
+   index
    readme
