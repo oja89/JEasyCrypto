@@ -1,6 +1,8 @@
 How To Use Client
 =================
 
+Instructions how to use the JEasyCryptoClient
+
 Startup
 =======
 
@@ -11,34 +13,38 @@ Main menu
 =========
 
 Menu consists of:
-1: Capability menu
-2: Encrypt menu
-3: Decrypt menu
+1: Capability
+
+2: Encrypt
+
+3: Decrypt
+
 4: Quit
 
-Capability menu
-===============
 
-Checks the crypting capabilities from the server
+Capability
+==========
 
-Encrypt menu
-============
+Check the crypting capabilities from the server
+
+Encrypt
+=======
 
 Choose the method for encryption
 (reverse, matrix, cyr or rot13)
 
 Enter the text to be crypted
 
-Decrypt menu
-============
+Decrypt
+=======
 
 Choose the method for decryption
 (reverse, matrix, cyr or rot13)
 
 Enter the text to be decrypted
 
-Quit menu
-=========
+Quit
+====
 
 Quit the program
 
