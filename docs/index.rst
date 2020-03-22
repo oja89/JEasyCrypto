@@ -1,15 +1,7 @@
-.. JEasyCryptoOja documentation master file, created by
-   sphinx-quickstart on Sun Mar 22 17:19:54 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to JEasyCryptoOja's documentation!
 ==========================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
+This is the starting page for JEasyCrypto documentation
 
 
 Indices and tables
@@ -18,3 +10,10 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Table of Contents
+==================
+
+.. toctree::
+
+   readme
